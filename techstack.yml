@@ -1,0 +1,149 @@
+repo_name: 2lambda123/ZendOAuth
+report_id: cab66b71926146545b7c3c2c93572e17
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T07:56:13+00:00'
+requested_by: snorkell-ai[bot]
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/ZendOAuth
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/.github/workflows/snorkell-auto-documentation.yml
+  detection_source: ".github/workflows/snorkell-auto-documentation.yml"
+  last_updated_by: snorkell-ai[bot]
+  last_updated_on: 2023-12-20 11:14:23.000000000 Z
+- name: zendframework/zend-config
+  description: Provides a nested object property based user interface for accessing
+    this configuration data within application code
+  package_url: https://packagist.org/zendframework/zend-config
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-crypt
+  description: Strong cryptography tools and password hashing
+  package_url: https://packagist.org/zendframework/zend-crypt
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-http
+  description: Provides an easy interface for performing Hyper-Text Transfer Protocol
+  package_url: https://packagist.org/zendframework/zend-http
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-i18n
+  description: Provide translations for your application
+  package_url: https://packagist.org/zendframework/zend-i18n
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-loader
+  description: Autoloading and plugin loading strategies
+  package_url: https://packagist.org/zendframework/zend-loader
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-math
+  description: Create cryptographically secure pseudo-random numbers
+  package_url: https://packagist.org/zendframework/zend-math
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-stdlib
+  description: SPL extensions, array utilities, error handlers, and more
+  package_url: https://packagist.org/zendframework/zend-stdlib
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
+- name: zendframework/zend-uri
+  description: A component that aids in manipulating and validating » Uniform Resource
+    Identifiers
+  package_url: https://packagist.org/zendframework/zend-uri
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/2lambda123/ZendOAuth/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Matthew Weier O'Phinney
+  last_updated_on: 2012-09-24 15:17:43.000000000 Z
